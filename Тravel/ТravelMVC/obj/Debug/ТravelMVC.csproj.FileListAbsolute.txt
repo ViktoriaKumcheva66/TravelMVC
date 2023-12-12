@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\bin\Debug\ТravelMVC.exe.config
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\bin\Debug\ТravelMVC.exe
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\bin\Debug\ТravelMVC.pdb
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\obj\Debug\ТravelMVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\obj\Debug\ТravelMVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\obj\Debug\ТravelMVC.exe
+C:\Users\Admin\Desktop\Belezireva\Тravel\ТravelMVC\obj\Debug\ТravelMVC.pdb
